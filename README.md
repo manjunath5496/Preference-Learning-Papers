@@ -61,8 +61,7 @@ from Human Preferences</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Preference-Learning-Papers/blob/master/p(30).pdf" style="text-decoration:none;">Why Use Interactive Multi-Objective Optimization in Chemical Process Design?</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Preference-Learning-Papers/blob/master/p(31).pdf" style="text-decoration:none;">Preference Learning</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Preference-Learning-Papers/blob/master/p(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Preference-Learning-Papers/blob/master/p(32).pdf" style="text-decoration:none;">Preference Learning with Extreme Examples</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Preference-Learning-Papers/blob/master/p(33).pdf" style="text-decoration:none;">Normal Vector Identification and Interactive Tradeoff Analysis Using Minimax Formulation in Multiobjective Optimization</a></li>                              
 
